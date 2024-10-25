@@ -2,10 +2,10 @@
 
   <br>
 
-- **🔭 I’m currently working on Voicer.**  
+- **🔭 I’m currently working on and in  DATCO.**  
   
 
-- **🌱 I’m currently learning Java & various frameworks.**  
+- **🌱 I’m currently learning Java, Python & various frameworks.**  
   
 
 - **❓ Ask me about anything related to web development.**  
