@@ -1,4 +1,4 @@
-# 🌟 Hi there, I'm Ranadheer! 👋
+# 🌟 Hi there! 👋
 
 ## 🚀 Web Developer & Designer
 
