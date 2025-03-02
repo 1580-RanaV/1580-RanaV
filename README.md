@@ -50,10 +50,6 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
-
-![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=1580-ranav&show_icons=true&theme=radical)
-
 ### 🌐 Connect with Me
 
 <p align="center">
